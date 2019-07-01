@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\obj\Debug\netcoreapp2.2\03projectMediaNumeros.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\obj\Debug\netcoreapp2.2\03projectMediaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\obj\Debug\netcoreapp2.2\03projectMediaNumeros.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\obj\Debug\netcoreapp2.2\03projectMediaNumeros.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\bin\Debug\netcoreapp2.2\03projectMediaNumeros.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\bin\Debug\netcoreapp2.2\03projectMediaNumeros.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\bin\Debug\netcoreapp2.2\03projectMediaNumeros.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\bin\Debug\netcoreapp2.2\03projectMediaNumeros.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\bin\Debug\netcoreapp2.2\03projectMediaNumeros.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\obj\Debug\netcoreapp2.2\03projectMediaNumeros.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\03projectMediaNumeros\obj\Debug\netcoreapp2.2\03projectMediaNumeros.pdb

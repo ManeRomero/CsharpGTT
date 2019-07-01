@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\obj\Debug\netcoreapp2.2\04projectPiramid.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\obj\Debug\netcoreapp2.2\04projectPiramid.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\obj\Debug\netcoreapp2.2\04projectPiramid.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\obj\Debug\netcoreapp2.2\04projectPiramid.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\bin\Debug\netcoreapp2.2\04projectPiramid.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\bin\Debug\netcoreapp2.2\04projectPiramid.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\bin\Debug\netcoreapp2.2\04projectPiramid.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\bin\Debug\netcoreapp2.2\04projectPiramid.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\bin\Debug\netcoreapp2.2\04projectPiramid.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\obj\Debug\netcoreapp2.2\04projectPiramid.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\04projectPiramid\obj\Debug\netcoreapp2.2\04projectPiramid.pdb

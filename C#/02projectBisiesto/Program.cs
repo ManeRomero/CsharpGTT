@@ -7,8 +7,7 @@ namespace _02projectBisiesto
         static void Main(string[] args)
         {
             int year = Convert.ToInt32(args[0]);
-            bool result = isBisiesto(year);
-            Console.WriteLine(result);
+            Console.WriteLine(isBisiesto(year));
         }
 
         static bool isBisiesto(int year)
