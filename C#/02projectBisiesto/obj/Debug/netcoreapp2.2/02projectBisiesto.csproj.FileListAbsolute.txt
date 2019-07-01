@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\obj\Debug\netcoreapp2.2\02projectBisiesto.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\obj\Debug\netcoreapp2.2\02projectBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\obj\Debug\netcoreapp2.2\02projectBisiesto.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\obj\Debug\netcoreapp2.2\02projectBisiesto.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\bin\Debug\netcoreapp2.2\02projectBisiesto.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\bin\Debug\netcoreapp2.2\02projectBisiesto.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\bin\Debug\netcoreapp2.2\02projectBisiesto.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\bin\Debug\netcoreapp2.2\02projectBisiesto.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\bin\Debug\netcoreapp2.2\02projectBisiesto.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\obj\Debug\netcoreapp2.2\02projectBisiesto.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\02projectBisiesto\obj\Debug\netcoreapp2.2\02projectBisiesto.pdb
