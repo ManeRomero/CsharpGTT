@@ -7,13 +7,14 @@ namespace _14Fibonacci
         static void Main(string[] args)
         {
             int num = Convert.ToInt32(args[0]);
-            int j = 0;
-            int k = 0;
-            Console.WriteLine("A CONTINUACIÓN, LA SERIE FIBONACCI DE " + num);
-            while (k <= num)
+            int k = 1;
+
+            Console.WriteLine("A CONTINUACIÓN, LA SERIE FIBONACCI HASTA " + num);
+
+            for (int i = 0; i <= num; i += k)
             {
-                Console.Write(j);
-                k += j;
+                System.Console.Write(i);
+                i += k
             }
         }
     }

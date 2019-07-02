@@ -1,0 +1,11 @@
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\obj\Debug\netcoreapp2.2\14Fibonacci.csprojAssemblyReference.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\obj\Debug\netcoreapp2.2\14Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\obj\Debug\netcoreapp2.2\14Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\obj\Debug\netcoreapp2.2\14Fibonacci.AssemblyInfo.cs
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\bin\Debug\netcoreapp2.2\14Fibonacci.deps.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\bin\Debug\netcoreapp2.2\14Fibonacci.runtimeconfig.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\bin\Debug\netcoreapp2.2\14Fibonacci.runtimeconfig.dev.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\bin\Debug\netcoreapp2.2\14Fibonacci.dll
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\bin\Debug\netcoreapp2.2\14Fibonacci.pdb
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\obj\Debug\netcoreapp2.2\14Fibonacci.dll
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\14fibonacci\obj\Debug\netcoreapp2.2\14Fibonacci.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\CSharp\\c#\\14fibonacci\\14Fibonacci.csproj",
-      "projectName": "14Fibonacci",
-      "projectPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\CSharp\\c#\\14fibonacci\\14Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\CSharp\\c#\\05romaniannumbers\\05projectNumerosRomanos.csproj",
+      "projectName": "05projectNumerosRomanos",
+      "projectPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\CSharp\\c#\\05romaniannumbers\\05projectNumerosRomanos.csproj",
       "packagesPath": "C:\\Users\\Peeps\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\CSharp\\c#\\14fibonacci\\obj\\",
+      "outputPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\CSharp\\c#\\05romaniannumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,12 @@
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\obj\Debug\netcoreapp3.0\16reverseinput.csprojAssemblyReference.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\obj\Debug\netcoreapp3.0\16reverseinput.csproj.CoreCompileInputs.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\obj\Debug\netcoreapp3.0\16reverseinput.AssemblyInfoInputs.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\obj\Debug\netcoreapp3.0\16reverseinput.AssemblyInfo.cs
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\bin\Debug\netcoreapp3.0\16reverseinput.exe
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\bin\Debug\netcoreapp3.0\16reverseinput.deps.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\bin\Debug\netcoreapp3.0\16reverseinput.runtimeconfig.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\bin\Debug\netcoreapp3.0\16reverseinput.runtimeconfig.dev.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\bin\Debug\netcoreapp3.0\16reverseinput.dll
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\bin\Debug\netcoreapp3.0\16reverseinput.pdb
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\obj\Debug\netcoreapp3.0\16reverseinput.dll
+C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\16reversenum\obj\Debug\netcoreapp3.0\16reverseinput.pdb
