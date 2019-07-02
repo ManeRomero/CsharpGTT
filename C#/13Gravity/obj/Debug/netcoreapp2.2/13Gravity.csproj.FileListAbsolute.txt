@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\obj\Debug\netcoreapp2.2\13Gravity.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\obj\Debug\netcoreapp2.2\13Gravity.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\obj\Debug\netcoreapp2.2\13Gravity.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\obj\Debug\netcoreapp2.2\13Gravity.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\bin\Debug\netcoreapp2.2\13Gravity.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\bin\Debug\netcoreapp2.2\13Gravity.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\bin\Debug\netcoreapp2.2\13Gravity.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\bin\Debug\netcoreapp2.2\13Gravity.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\bin\Debug\netcoreapp2.2\13Gravity.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\obj\Debug\netcoreapp2.2\13Gravity.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\13Gravity\obj\Debug\netcoreapp2.2\13Gravity.pdb

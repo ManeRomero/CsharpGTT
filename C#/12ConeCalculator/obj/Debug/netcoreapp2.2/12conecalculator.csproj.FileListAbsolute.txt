@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\obj\Debug\netcoreapp2.2\12conecalculator.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\obj\Debug\netcoreapp2.2\12conecalculator.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\obj\Debug\netcoreapp2.2\12conecalculator.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\obj\Debug\netcoreapp2.2\12conecalculator.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\bin\Debug\netcoreapp2.2\12conecalculator.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\bin\Debug\netcoreapp2.2\12conecalculator.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\bin\Debug\netcoreapp2.2\12conecalculator.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\bin\Debug\netcoreapp2.2\12conecalculator.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\bin\Debug\netcoreapp2.2\12conecalculator.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\obj\Debug\netcoreapp2.2\12conecalculator.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\12conecalculator\obj\Debug\netcoreapp2.2\12conecalculator.pdb

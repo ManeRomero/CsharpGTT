@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\bin\Debug\netcoreapp2.2\09mayormenor.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\bin\Debug\netcoreapp2.2\09mayormenor.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\bin\Debug\netcoreapp2.2\09mayormenor.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\bin\Debug\netcoreapp2.2\09mayormenor.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\bin\Debug\netcoreapp2.2\09mayormenor.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\obj\Debug\netcoreapp2.2\09mayormenor.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\obj\Debug\netcoreapp2.2\09mayormenor.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\obj\Debug\netcoreapp2.2\09mayormenor.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\obj\Debug\netcoreapp2.2\09mayormenor.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\obj\Debug\netcoreapp2.2\09mayormenor.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\09mayormenor\obj\Debug\netcoreapp2.2\09mayormenor.pdb

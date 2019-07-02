@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\obj\Debug\netcoreapp2.2\10reversedata.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\obj\Debug\netcoreapp2.2\10reversedata.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\obj\Debug\netcoreapp2.2\10reversedata.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\obj\Debug\netcoreapp2.2\10reversedata.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\bin\Debug\netcoreapp2.2\10reversedata.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\bin\Debug\netcoreapp2.2\10reversedata.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\bin\Debug\netcoreapp2.2\10reversedata.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\bin\Debug\netcoreapp2.2\10reversedata.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\bin\Debug\netcoreapp2.2\10reversedata.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\obj\Debug\netcoreapp2.2\10reversedata.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\10reversedata\obj\Debug\netcoreapp2.2\10reversedata.pdb

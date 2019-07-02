@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\bin\Debug\netcoreapp2.2\11mbcalculator.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\bin\Debug\netcoreapp2.2\11mbcalculator.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\bin\Debug\netcoreapp2.2\11mbcalculator.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\bin\Debug\netcoreapp2.2\11mbcalculator.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\bin\Debug\netcoreapp2.2\11mbcalculator.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\obj\Debug\netcoreapp2.2\11mbcalculator.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\obj\Debug\netcoreapp2.2\11mbcalculator.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\obj\Debug\netcoreapp2.2\11mbcalculator.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\obj\Debug\netcoreapp2.2\11mbcalculator.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\obj\Debug\netcoreapp2.2\11mbcalculator.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\11mbcalculator\obj\Debug\netcoreapp2.2\11mbcalculator.pdb

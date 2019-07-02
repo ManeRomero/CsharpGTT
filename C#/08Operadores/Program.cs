@@ -8,7 +8,7 @@ namespace _08operadores
         {
             for (int i = 0; i <= 30; i += 2)
             {
-                System.Console.WriteLine(i % 3 == 0 ? i + " Sí es par." : i + " No par");
+                Console.WriteLine(i % 3 == 0 ? i + " Sí es múltiplo." : i + " No es múltiplo");
             }
         }
     }
