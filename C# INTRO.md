@@ -25,11 +25,17 @@ las comillas "" se gastarán para cadenas de texto de varios caracteres, las com
 
 VARIABLES Y CONSTANTES: --->> en función de si varía o no el valor de un ámbito almacenado en memoria al tiempo de ejecución.
 
-PARA DECLARA VARIABLES
+STRINGS METHODS
+################
 
+El tratamiento de las operraciones con strings siempre va de izquierda a derecha, a no ser que usemos paréntesis y demás. 
+SUBSTRING
+IndexOf()
+ToUpper() ToLower()
+StartsWith() EndsWith()
+PadLeft() PadRight() ---> completa cadenas de texto desde el lado indicado.
+Split() - Join() ---> Separa o une strings, basándose en el separador pasado en los paréntesis
+replace()
+Length
 
-OPERACIONES CON CADENAS DE TEXTO
-###################################
-
-
-
+console.ReadLine() · Console.ReadKey()   --->   leen una línea en consola o un caracter.

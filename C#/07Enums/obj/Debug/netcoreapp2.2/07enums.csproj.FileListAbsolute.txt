@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\obj\Debug\netcoreapp2.2\07enums.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\obj\Debug\netcoreapp2.2\07enums.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\obj\Debug\netcoreapp2.2\07enums.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\obj\Debug\netcoreapp2.2\07enums.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\bin\Debug\netcoreapp2.2\07enums.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\bin\Debug\netcoreapp2.2\07enums.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\bin\Debug\netcoreapp2.2\07enums.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\bin\Debug\netcoreapp2.2\07enums.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\bin\Debug\netcoreapp2.2\07enums.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\obj\Debug\netcoreapp2.2\07enums.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\07enums\obj\Debug\netcoreapp2.2\07enums.pdb

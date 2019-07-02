@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\bin\Debug\netcoreapp2.2\06arrays.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\bin\Debug\netcoreapp2.2\06arrays.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\bin\Debug\netcoreapp2.2\06arrays.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\bin\Debug\netcoreapp2.2\06arrays.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\bin\Debug\netcoreapp2.2\06arrays.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\obj\Debug\netcoreapp2.2\06arrays.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\obj\Debug\netcoreapp2.2\06arrays.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\obj\Debug\netcoreapp2.2\06arrays.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\obj\Debug\netcoreapp2.2\06arrays.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\obj\Debug\netcoreapp2.2\06arrays.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\C#\06arrays\obj\Debug\netcoreapp2.2\06arrays.pdb
