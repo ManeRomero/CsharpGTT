@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\obj\Debug\netcoreapp2.2\19vehiclesclass.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\obj\Debug\netcoreapp2.2\19vehiclesclass.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\obj\Debug\netcoreapp2.2\19vehiclesclass.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\obj\Debug\netcoreapp2.2\19vehiclesclass.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\bin\Debug\netcoreapp2.2\19vehiclesclass.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\bin\Debug\netcoreapp2.2\19vehiclesclass.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\bin\Debug\netcoreapp2.2\19vehiclesclass.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\bin\Debug\netcoreapp2.2\19vehiclesclass.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\bin\Debug\netcoreapp2.2\19vehiclesclass.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\obj\Debug\netcoreapp2.2\19vehiclesclass.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\19vehiclesclass\obj\Debug\netcoreapp2.2\19vehiclesclass.pdb

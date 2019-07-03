@@ -20,3 +20,14 @@ C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\05romaniannumbers\obj\Debug\netcoreap
 C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.AssemblyInfo.cs
 C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.dll
 C:\Users\Peeps\Desktop\GEEKS\GTT\CSharp\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\bin\Debug\netcoreapp2.2\05projectNumerosRomanos.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\bin\Debug\netcoreapp2.2\05projectNumerosRomanos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\bin\Debug\netcoreapp2.2\05projectNumerosRomanos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\bin\Debug\netcoreapp2.2\05projectNumerosRomanos.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\bin\Debug\netcoreapp2.2\05projectNumerosRomanos.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\05romaniannumbers\obj\Debug\netcoreapp2.2\05projectNumerosRomanos.pdb

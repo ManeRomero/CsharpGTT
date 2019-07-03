@@ -14,7 +14,7 @@ namespace _14Fibonacci
             for (int i = 0; i <= num; i += k)
             {
                 System.Console.Write(i);
-                i += k
+                i += k;
             }
         }
     }
