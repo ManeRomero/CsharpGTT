@@ -13,4 +13,5 @@ namespace _15mathpow
             long result = Convert.ToInt64(Math.Pow(numBase, exponente));
             Console.WriteLine("El resultado es: " + result);            
         }
-    }}
+    }
+}
