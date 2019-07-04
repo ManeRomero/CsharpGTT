@@ -7,11 +7,18 @@ namespace registerComputer
         private RamMemory ramUnit;
         private Processor processorUnit;
         private Storage memoryUnit;
-        private BrandModel modelUnit;
+        // private BrandModel modelUnit;
 
-        Computer()
+        public Computer()
         {
-            Console.WriteLine("Ordenador CreaDo");
+            Console.WriteLine("VAMOS A CREAR TU ORDENADOR");
+            makeMyPC();
+        }
+
+        private void makeMyPC()
+        {
+            this.ramUnit = new RamMemory();
+            this.processorUnit = new Processor();
         }
     }
 }

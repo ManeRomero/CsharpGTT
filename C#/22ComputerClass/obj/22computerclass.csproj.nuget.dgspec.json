@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\c#\\22computerclass\\22computerclass.csproj": {}
+    "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\c#\\22computerclass\\22computerclass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\c#\\22computerclass\\22computerclass.csproj": {
+    "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\c#\\22computerclass\\22computerclass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\c#\\22computerclass\\22computerclass.csproj",
+        "projectUniqueName": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\c#\\22computerclass\\22computerclass.csproj",
         "projectName": "22computerclass",
-        "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\c#\\22computerclass\\22computerclass.csproj",
-        "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\c#\\22computerclass\\obj\\",
+        "projectPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\c#\\22computerclass\\22computerclass.csproj",
+        "packagesPath": "C:\\Users\\Peeps\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\c#\\22computerclass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Peeps\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

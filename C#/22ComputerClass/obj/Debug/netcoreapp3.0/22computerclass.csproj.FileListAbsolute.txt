@@ -10,3 +10,15 @@ C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\22computerclass\obj\Debug\netcorea
 C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.AssemblyInfo.cs
 C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.dll
 C:\Users\formacion.GTT\Desktop\APUNTES MRC\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.pdb
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.csprojAssemblyReference.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.csproj.CoreCompileInputs.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.AssemblyInfoInputs.cache
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.AssemblyInfo.cs
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.dll
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\obj\Debug\netcoreapp3.0\22computerclass.pdb
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\bin\Debug\netcoreapp3.0\22computerclass.exe
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\bin\Debug\netcoreapp3.0\22computerclass.deps.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\bin\Debug\netcoreapp3.0\22computerclass.runtimeconfig.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\bin\Debug\netcoreapp3.0\22computerclass.runtimeconfig.dev.json
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\bin\Debug\netcoreapp3.0\22computerclass.dll
+C:\Users\Peeps\Desktop\GEEKS\GTT\c#\22computerclass\bin\Debug\netcoreapp3.0\22computerclass.pdb
