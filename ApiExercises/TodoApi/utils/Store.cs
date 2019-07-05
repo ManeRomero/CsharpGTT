@@ -11,7 +11,6 @@ namespace TodoApi.utils
         {
 
         }
-
         public static Store Instance
         {
             get

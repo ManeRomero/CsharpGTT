@@ -18,9 +18,9 @@ namespace TodoApi.Controllers
         private Store store = Store.Instance;
 
         [HttpGet]
-        public Store GetTodoItems()
+        public List<TodoItem> GetTodoItems()
         {
-            return this.store;
+            return this.store.todos;
         }
 
         [HttpPost]
