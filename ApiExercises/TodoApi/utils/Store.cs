@@ -9,7 +9,7 @@ namespace TodoApi.utils
         public List<TodoItem> todos = new List<TodoItem>();
         public Store()
         {
-
+            
         }
         public static Store Instance
         {
