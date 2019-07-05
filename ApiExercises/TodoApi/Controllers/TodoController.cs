@@ -23,6 +23,11 @@ namespace TodoApi.Controllers
             return this.store.todos;
         }
 
+        [HttpGet("{id}")]
+        public TodoItem getTodoItem(long id) {
+            return this.store.todos.Find(todo => todo.Id == id);
+        }
+
         [HttpPost]
         public TodoItem PostTodo(TodoItem item)
         {

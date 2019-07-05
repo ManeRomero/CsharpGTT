@@ -20,28 +20,3 @@ namespace TodoApi.utils
         }
     }
 }
-
-
-/* public sealed class MyClass
-{
-    private static volatile IMyObject instance;
-    private static Object syncRootObject = new Object();
-
-    public static IMyObject Instance
-    {
-        get
-        {
-            if (instance == null)
-            {
-                lock (syncRooObject)
-                {
-                    if (instance == null)
-                    {
-                        instance = new MyObject();
-                    }
-                }
-            }
-            return instance;
-        }
-    }
-} */
