@@ -1,0 +1,12 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\obj\Debug\netcoreapp3.0\lists.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\obj\Debug\netcoreapp3.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\obj\Debug\netcoreapp3.0\lists.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\obj\Debug\netcoreapp3.0\lists.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\bin\Debug\netcoreapp3.0\lists.exe
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\bin\Debug\netcoreapp3.0\lists.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\bin\Debug\netcoreapp3.0\lists.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\bin\Debug\netcoreapp3.0\lists.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\bin\Debug\netcoreapp3.0\lists.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\bin\Debug\netcoreapp3.0\lists.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\obj\Debug\netcoreapp3.0\lists.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\lists\obj\Debug\netcoreapp3.0\lists.pdb

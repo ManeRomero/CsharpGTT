@@ -8,28 +8,30 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Peeps\\.nuget\\packages\\": {},
+    "C:\\Users\\formacion.GTT\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\apiexercises\\myvideogamesapi\\myVideoGamesApi.csproj",
-      "projectName": "myVideoGamesApi",
-      "projectPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\apiexercises\\myvideogamesapi\\myVideoGamesApi.csproj",
-      "packagesPath": "C:\\Users\\Peeps\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peeps\\Desktop\\GEEKS\\GTT\\apiexercises\\myvideogamesapi\\obj\\",
+      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\lists\\lists.csproj",
+      "projectName": "lists",
+      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\lists\\lists.csproj",
+      "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\APUNTES MRC\\lists\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Peeps\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,9 +58,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
