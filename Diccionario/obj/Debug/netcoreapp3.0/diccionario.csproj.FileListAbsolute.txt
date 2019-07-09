@@ -1,0 +1,12 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\obj\Debug\netcoreapp3.0\diccionario.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\obj\Debug\netcoreapp3.0\diccionario.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\obj\Debug\netcoreapp3.0\diccionario.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\obj\Debug\netcoreapp3.0\diccionario.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\bin\Debug\netcoreapp3.0\diccionario.exe
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\bin\Debug\netcoreapp3.0\diccionario.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\bin\Debug\netcoreapp3.0\diccionario.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\bin\Debug\netcoreapp3.0\diccionario.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\bin\Debug\netcoreapp3.0\diccionario.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\bin\Debug\netcoreapp3.0\diccionario.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\obj\Debug\netcoreapp3.0\diccionario.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\diccionario\obj\Debug\netcoreapp3.0\diccionario.pdb

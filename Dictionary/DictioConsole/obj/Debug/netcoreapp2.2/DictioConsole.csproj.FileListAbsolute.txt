@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\bin\Debug\netcoreapp2.2\DictioConsole.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\bin\Debug\netcoreapp2.2\DictioConsole.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\bin\Debug\netcoreapp2.2\DictioConsole.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\bin\Debug\netcoreapp2.2\DictioConsole.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\bin\Debug\netcoreapp2.2\DictioConsole.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\obj\Debug\netcoreapp2.2\DictioConsole.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\obj\Debug\netcoreapp2.2\DictioConsole.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\obj\Debug\netcoreapp2.2\DictioConsole.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\obj\Debug\netcoreapp2.2\DictioConsole.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\obj\Debug\netcoreapp2.2\DictioConsole.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\Dictionary\DictioConsole\obj\Debug\netcoreapp2.2\DictioConsole.pdb

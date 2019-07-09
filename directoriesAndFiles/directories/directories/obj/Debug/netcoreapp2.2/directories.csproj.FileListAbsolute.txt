@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\bin\Debug\netcoreapp2.2\directories.deps.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\bin\Debug\netcoreapp2.2\directories.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\bin\Debug\netcoreapp2.2\directories.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\bin\Debug\netcoreapp2.2\directories.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\bin\Debug\netcoreapp2.2\directories.pdb
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\obj\Debug\netcoreapp2.2\directories.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\obj\Debug\netcoreapp2.2\directories.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\obj\Debug\netcoreapp2.2\directories.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\obj\Debug\netcoreapp2.2\directories.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\obj\Debug\netcoreapp2.2\directories.dll
+C:\Users\formacion.GTT\Desktop\APUNTES MRC\directoriesAndFiles\directories\directories\obj\Debug\netcoreapp2.2\directories.pdb
